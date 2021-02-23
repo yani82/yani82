@@ -12,7 +12,7 @@
 - 💬 Ask me just about anything! 
 - 📫 How to reach me: Slack @Yani A. 
 - :hibiscus: Pronouns: she/her
-- ⚡ Fun fact: American born, Malaysian bred, transitioning from travel to tech, a mom who's striving to provide the best for her toddler and baby who's due in June 2021 
+- :airplane: Fun fact: American born, Malaysian bred, transitioning from travel to tech, a mom who's striving to provide the best for her toddler and baby who's due in June 2021 
 
 <audio controls>
          <source src = "/play whoomp" type = "audio">
