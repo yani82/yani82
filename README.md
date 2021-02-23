@@ -1,7 +1,12 @@
 ### Peace :v:
 
 <!--**yani82/yani82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
+<div align="center">
 ![](https://media.giphy.com/media/vIGwkHlazI3Jqsp5aE/giphy.gif)
+<audio controls>
+         <source src = "/play whoomp" type = "audio">
+</audio>
+(/div>
 
 #### Welcome to my Github account:
 
@@ -14,7 +19,5 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: American born, Malaysian bred, transitioning from travel to tech, a mom who's striving to provide the best for her toddler and baby who's due in June 2021 
 
-<audio controls>
-         <source src = "/play whoomp" type = "audio">
-</audio>
+
       
