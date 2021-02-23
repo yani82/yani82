@@ -1,9 +1,9 @@
 ### Peace :v:
 
 <!--**yani82/yani82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
-                                             ![](https://media.giphy.com/media/vIGwkHlazI3Jqsp5aE/giphy.gif)
+![](https://media.giphy.com/media/vIGwkHlazI3Jqsp5aE/giphy.gif)
 
-####Welcome to my Github account:
+#### Welcome to my Github account:
 
 - :mortar_board: I’m currently trying my darndest to graduate from my part-time SWE course at Flatiron School by May/June 2021 
 - :computer: I’m currently learning JavaScript, and next React/Redux 
