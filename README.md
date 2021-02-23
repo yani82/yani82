@@ -1,8 +1,7 @@
-<div align="center">
 ### Peace :v:
 
 <!--**yani82/yani82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
-<img src="https://" style="border-radius: 5px">
+![](https://media.giphy.com/media/vIGwkHlazI3Jqsp5aE/giphy.gif)
 
 Welcome to my Github account:
 
@@ -16,4 +15,3 @@ Welcome to my Github account:
 - ⚡ Fun fact: American born, Malaysian bred, transitioning from travel to tech, a mom who's striving to provide the best for her toddler and baby due in June 2021 
 
 /play whoomp
-</div>
