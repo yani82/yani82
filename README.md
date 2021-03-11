@@ -13,7 +13,7 @@
 - :hibiscus: Pronouns: she/her
 - :airplane: Fun fact: American born, Malaysian bred, transitioning from travel to tech, a mom who's striving to provide the best for her toddler and baby who's due in June 2021 
 
-### How to reach me:: 
+### How to reach me:
 - 💁🏽 [LinkedIn](https://www.linkedin.com/in/nuryaniiman/) <br/>
 - 📧 yani.iman1@gmail.com
 - 👉🏽 [Slack](https://slack.com/) @Yani A. <br/>
