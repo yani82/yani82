@@ -1,4 +1,4 @@
-### Peace :v:
+##### Peace :v:
 
 <!--**yani82/yani82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
 ![](https://media.giphy.com/media/vIGwkHlazI3Jqsp5aE/giphy.gif)
@@ -15,7 +15,7 @@
 - :airplane: Fun fact: American born, Malaysian bred, transitioning from travel to tech, a mom who's striving to provide the best for her toddler and baby who's due in June 2021 
 
 ### Contact: 
-- 👋🏽 [LinkedIn](https://www.linkedin.com/in/nuryaniiman/) <br/>
+- 💁🏽 [LinkedIn](https://www.linkedin.com/in/nuryaniiman/) <br/>
 - 📧 yani.iman1@gmail.com
 
 <audio controls>
