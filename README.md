@@ -10,13 +10,13 @@
 - :earth_asia: I’m looking to collaborate on anything that helps me master coding, and a plus would be if it's a project that contributes back to the betterment of society, social issues, the environment, equity, equality, end of poverty, et al 
 - 🤔 I’m looking for help with anything related to JavaScript, React/Redux, networking, preparing for my job search this Spring 
 - 💬 Ask me just about anything! 
-- 📫 How to reach me: Slack @Yani A. 
 - :hibiscus: Pronouns: she/her
 - :airplane: Fun fact: American born, Malaysian bred, transitioning from travel to tech, a mom who's striving to provide the best for her toddler and baby who's due in June 2021 
 
-### Contact: 
+### How to reach me:: 
 - 💁🏽 [LinkedIn](https://www.linkedin.com/in/nuryaniiman/) <br/>
-- 📧 yani.iman1@gmail.com
+- :gmail: yani.iman1@gmail.com
+- :slack: @Yani A. 
 
 <audio controls>
          <source src = "/play whoomp" type = "audio">
