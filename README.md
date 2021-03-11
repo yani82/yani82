@@ -15,8 +15,8 @@
 
 ### How to reach me:: 
 - 💁🏽 [LinkedIn](https://www.linkedin.com/in/nuryaniiman/) <br/>
-- :gmail: yani.iman1@gmail.com
-- :slack: @Yani A. 
+- 📧 yani.iman1@gmail.com
+- 👉🏽 [Slack](https://slack.com/) @Yani A. <br/>
 
 <audio controls>
          <source src = "/play whoomp" type = "audio">
