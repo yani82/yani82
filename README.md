@@ -7,7 +7,7 @@
 
 - :mortar_board: I’m currently trying my darndest to graduate from my part-time SWE course at Flatiron School by May/June 2021 
 - :computer: I’m currently learning JavaScript, and React/Redux next
-- :earth_asia: I’m looking to collaborate on anything that helps me master coding, and a plus would be if it's a project that contributes back to the betterment of society, social issues, the environment, equity, equality, end of poverty, et al 
+- :earth_asia: I’m looking to collaborate on anything that helps me master Ruby and JavaScript languages (open to learn more), and a plus would be if it's a project that contributes back to the betterment of society, social issues, the environment, equity, equality, end of poverty, et al 
 - 🤔 I’m looking for help with anything related to JavaScript, React/Redux, networking, preparing for my job search this Spring 
 - 💬 Ask me just about anything! 
 - :hibiscus: Pronouns: she/her
