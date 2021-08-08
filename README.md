@@ -19,7 +19,7 @@
 - 💁🏽 [LinkedIn](https://www.linkedin.com/in/nuryaniiman/) <br/>
 - 📧 yani.iman1@gmail.com
 - 👉🏽 [Slack](https://slack.com/) @Yani A. <br/>
-- https://icon-library.com/icon/twitter-text-icon-4.html.html <a href="https://twitter.com/yi_tweets?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @yi_tweets</a>
+- 🐤 <a href="https://twitter.com/yi_tweets?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @yi_tweets</a>
 
 <audio controls>
          <source src = "/play whoomp" type = "audio">
