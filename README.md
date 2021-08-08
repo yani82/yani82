@@ -19,6 +19,7 @@
 - 💁🏽 [LinkedIn](https://www.linkedin.com/in/nuryaniiman/) <br/>
 - 📧 yani.iman1@gmail.com
 - 👉🏽 [Slack](https://slack.com/) @Yani A. <br/>
+- <i class="fab fa-twitter"></i> @yi_tweets
 
 <audio controls>
          <source src = "/play whoomp" type = "audio">
