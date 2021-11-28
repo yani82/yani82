@@ -21,6 +21,13 @@
 - 👉🏽 [Slack](https://slack.com/) @Yani A. <br/>
 - 🐤 <a href="https://twitter.com/yi_tweets?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @yi_tweets</a>
 
-<audio controls>
+<hr>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=yani82&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yani82"/>
+<hr>
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${yani82}.${yani82})
+
+<audio>
          <source src = "/play whoomp" type = "audio">
 </audio>
