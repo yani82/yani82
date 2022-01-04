@@ -25,6 +25,8 @@
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=yani82&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yani82"/>
 <hr>
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${yani82}.${yani82})
 
