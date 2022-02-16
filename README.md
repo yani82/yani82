@@ -7,16 +7,16 @@
 
 #### Welcome to my Github account:
 
-- :mortar_board: Flatiron School graduate and Tally Up fellow  
+- :mortar_board: Flatiron School graduate, former Tally Up fellow, current freelance Tech Writer for Hit Subscribe   
 - :computer: I’ve completed modules for Ruby, Sinatra, Ruby on Rails, JavaScript and React/Redux 
 - :earth_asia: I’m looking to collaborate on anything that helps me master Ruby and JavaScript languages (open to learn more), and a plus would be if it's a project that contributes back to the betterment of society, social issues, the environment, equity, equality, end of poverty, et al 
 - 🤔 I’m looking for help with anything related to polishing my newly acquired skills, practicing algorithms and preparing for tech interviews 
 - 💬 Ask me just about anything! 
-- :hibiscus: Pronouns: she/her
-- :airplane: Fun fact: American born, Malaysian bred, transitioning from travel to tech, a mom who's striving to provide the best for her toddler and new born baby 
+- :hibiscus: Pronouns: she/her/hers
+- :airplane: Fun fact: American born, Malaysian bred, transitioning from travel to tech, a mom who's striving to provide the best for her two kiddos 
 
 ### How to reach me:
-- 💁🏽 [LinkedIn](https://www.linkedin.com/in/nuryaniiman/) <br/>
+- 💁🏽 [LinkedIn](https://www.linkedin.com/in/yani-asari/) <br/>
 - 📧 yani.iman1@gmail.com
 - 👉🏽 [Slack](https://slack.com/) @Yani A. <br/>
 - 🐤 <a href="https://twitter.com/yi_tweets?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @yi_tweets</a>
