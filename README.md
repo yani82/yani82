@@ -11,7 +11,7 @@
 - :computer: I’ve completed modules for Ruby, Sinatra, Ruby on Rails, JavaScript and React/Redux 
 - :earth_asia: I’m looking to collaborate on anything that helps me master Ruby and JavaScript languages (open to learn more), and a plus would be if it's a project that contributes back to the betterment of society, social issues, the environment, equity, equality, end of poverty, et al 
 - 🤔 I’m looking for help with anything related to polishing my newly acquired skills, practicing algorithms and preparing for tech interviews 
-- :book: The Ruby Programming Language, You Don't Know JS, Eloquent JavaScript, Cracking the Coding Interview 
+- :book: The Ruby Programming Language, You Don't Know JS, Eloquent JavaScript, Operating Systems: Three Easy Pieces, Cracking the Coding Interview 
 - 💬 Ask me just about anything! 
 - :hibiscus: Pronouns: she/her/hers
 - :airplane: Fun fact: American born, Malaysian bred, transitioning from travel to tech, a mom who's striving to provide the best for her two kiddos 
