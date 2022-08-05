@@ -7,7 +7,7 @@
 
 #### Welcome to my Github account:
 
-- :mortar_board: Flatiron School graduate, former Tally Up fellow, current freelance Tech Writer for Hit Subscribe   
+- :mortar_board: current Associate SE at Infosys, freelance Tech Writer for Hit Subscribe, former Tally Up fellow, and Flatiron School graduate
 - :computer: I’ve completed modules for Ruby, Sinatra, Ruby on Rails, JavaScript and React/Redux 
 - :earth_asia: I’m looking to collaborate on anything that helps me master Ruby and JavaScript languages (open to learn more), and a plus would be if it's a project that contributes back to the betterment of society, social issues, the environment, equity, equality, end of poverty, et al 
 - 🤔 I’m looking for help with anything related to polishing my newly acquired skills, practicing algorithms and preparing for tech interviews 
