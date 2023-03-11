@@ -1,11 +1,9 @@
 
 <!--**yani82/yani82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
-![](https://media.giphy.com/media/vIGwkHlazI3Jqsp5aE/giphy.gif)
+<h1 align="center">![](https://media.giphy.com/media/vIGwkHlazI3Jqsp5aE/giphy.gif)</h1>
 
 <h1 align="center">Hi :v:, I'm Yani</h1>
-<h3 align="center">A passionate Frontend Developer from New York City</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yani82&label=Profile%20views&color=0e75b6&style=flat" alt="yani82" /> </p>
+<h3 align="center">A passionate Frontend Developer with a background in Digital Marketing based in New York City</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yani82" alt="yani82" /></a> </p>
 
