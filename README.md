@@ -8,10 +8,10 @@
 #### Welcome to my Github account:
 
 - :mortar_board: current Associate SE at Infosys, freelance Tech Writer for Hit Subscribe, former Tally Up fellow, and Flatiron School graduate
-- :computer: Ruby, Sinatra, Ruby on Rails, JavaScript, React/Redux, Java, Spring Boot, Spring, Angulara, MySQL, Bootstrap, HTML, CSS, Tailwind, Material UI 
+- :computer: Ruby, Sinatra, Ruby on Rails, JavaScript, React/Redux, Java, Spring Boot, Spring, Angular, MySQL, Bootstrap, HTML, CSS, Tailwind, Material UI 
 - :earth_asia: I’m looking to collaborate on anything that helps me master OOP and data structures and algorithms, and a plus would be if it's a project that contributes back to the betterment of society, social issues, the environment, equity, equality, end of poverty, et al 
-- 🤔 I’m looking for help with anything related to polishing my skills, practicing data structures and algorithms, and preparing for tech interviews 
-- :book: The Ruby Programming Language, You Don't Know JS, Eloquent JavaScript, Operating Systems: Three Easy Pieces, Cracking the Coding Interview 
+- 🤔 I’m looking for help with anything related to polishing my data structures and algorithms practice, and preparing for tech interviews 
+- :book: The Ruby Programming Language, You Don't Know JS, Eloquent JavaScript, Operating Systems: Three Easy Pieces, Cracking the Coding Interview, Lighter 
 - 💬 Ask me just about anything! 
 - :hibiscus: Pronouns: she/her/hers
 - :airplane: Fun fact: American born, Malaysian bred, transitioned from travel to tech, a mom who's striving to provide the best for her two kiddos 
