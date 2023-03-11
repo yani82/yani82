@@ -1,6 +1,6 @@
 
 <!--**yani82/yani82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
-<h1 align="center">[](https://media.giphy.com/media/vIGwkHlazI3Jqsp5aE/giphy.gif)</h1>
+<h1 align="center">(https://media.giphy.com/media/vIGwkHlazI3Jqsp5aE/giphy.gif)</h1>
 
 <h1 align="center">Hi :v:, I'm Yani</h1>
 <h3 align="center">A passionate Frontend Developer with a background in Digital Marketing based in New York City</h3>
