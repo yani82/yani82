@@ -1,12 +1,11 @@
 
 <!--**yani82/yani82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
-##:v:
 ![](https://media.giphy.com/media/vIGwkHlazI3Jqsp5aE/giphy.gif)
 
 
 #### Welcome to my Github account:
 
-<h1 align="center">Hi 👋, I'm Yani</h1>
+<h1 align="center">Hi :v:, I'm Yani</h1>
 <h3 align="center">A passionate Frontend Developer from New York City</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yani82&label=Profile%20views&color=0e75b6&style=flat" alt="yani82" /> </p>
