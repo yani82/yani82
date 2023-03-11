@@ -59,7 +59,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${yani82}.${yani82})
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yani82&label=Profile%20views&color=0e75b6&style=flat" alt="yani82" /> </p>
 
 
 <h3 align="left">Support:</h3>
