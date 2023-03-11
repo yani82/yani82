@@ -36,21 +36,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/yani82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yani82" height="30" width="40" /></a>
-
-<a href="https://dev.to/yani82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yani82" height="30" width="40" /></a>
-         
-<a href="https://twitter.com/yi_tweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yi_tweets" height="30" width="40" /></a>
-         
-<a href="https://linkedin.com/in/yani-asari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yani-asari" height="30" width="40" /></a>
-         
-<a href="https://stackoverflow.com/users/15562097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15562097" height="30" width="40" /></a>
-         
-<a href="https://medium.com/@yani.iman1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yani.iman1" height="30" width="40" /></a>
-         
-<a href="https://www.hackerrank.com/yani_iman1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yani_iman1" height="30" width="40" /></a>
-         
-<a href="https://www.leetcode.com/yani82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yani82" height="30" width="40" /></a>
-         
+<a href="https://dev.to/yani82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yani82" height="30" width="40" /></a>    
+<a href="https://twitter.com/yi_tweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yi_tweets" height="30" width="40" /></a>        
+<a href="https://linkedin.com/in/yani-asari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yani-asari" height="30" width="40" /></a>        
+<a href="https://stackoverflow.com/users/15562097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15562097" height="30" width="40" /></a>        
+<a href="https://medium.com/@yani.iman1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yani.iman1" height="30" width="40" /></a>        
+<a href="https://www.hackerrank.com/yani_iman1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yani_iman1" height="30" width="40" /></a>       
+<a href="https://www.leetcode.com/yani82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yani82" height="30" width="40" /></a>       
 <a href="https://discord.gg/doLL.parTs#9741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="doLL.parTs#9741" height="30" width="40" /></a>
 </p>
 
