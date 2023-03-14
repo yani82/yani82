@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yani82" alt="yani82" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yi_tweets" target="blank"><img src="https://img.shields.io/twitter/follow/yi_tweets?logo=twitter&style=for-the-badge" alt="yi_tweets" /></a> </p>
-
 - 🔭 I’m currently working on [Estee Lauder Accessible Beauty Hackathon](https://github.com/Agoodsamaritan)
 
 - 🌱 I’m currently learning **Java, Spring Boot, Angular, AWS, Azure, IBM Sterling OMS**
