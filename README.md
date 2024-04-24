@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available on [my Portfolio site](https://yaniportfolio.netlify.app/)
 
-- 📝 I regularly write articles on [Medium]([https://dev.to/yani82](https://medium.com/@yani.iman1))
+- 📝 I regularly write articles on [Medium](https://medium.com/@yani.iman1)
 
 - 💬 Ask me about **JavaScript, React**
 
