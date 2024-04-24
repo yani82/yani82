@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **yani.iman1@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/11_83s1qkPjEPCTF--msZEsn3CM-rlSLCxFE0YEDQYfM/edit?usp=sharing](https://docs.google.com/document/d/11_83s1qkPjEPCTF--msZEsn3CM-rlSLCxFE0YEDQYfM/edit?usp=sharing)
+- 📄 Know about my experiences [[https://docs.google.com/document/d/11_83s1qkPjEPCTF--msZEsn3CM-rlSLCxFE0YEDQYfM/edit?usp=sharing](https://docs.google.com/document/d/11_83s1qkPjEPCTF--msZEsn3CM-rlSLCxFE0YEDQYfM/edit?usp=sharing)](https://docs.google.com/document/d/1rknje3OPRh0pqSMbQh1XzqSx6-Wq6cCCvW2ByqO28Dg/edit?usp=sharing)
 
 - ⚡ Fun fact **American-born, Malaysian-bred, transitioned from travel marketing to tech, a mom who's striving to provide the best for her two little ones**
 
