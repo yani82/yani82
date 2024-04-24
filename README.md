@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **JavaScript, React**
 
-- 📫 How to reach me [Email]**yani.iman1@gmail.com**
+- 📫 How to reach me [Email](**yani.iman1@gmail.com**)
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1rknje3OPRh0pqSMbQh1XzqSx6-Wq6cCCvW2ByqO28Dg/edit?usp=sharing)
 
