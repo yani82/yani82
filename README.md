@@ -17,13 +17,13 @@
 
 - 🤝 I’m looking for help with **Data Structures & Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://yaniportfolio.netlify.app/](https://yaniportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available on [my Portfolio site](https://yaniportfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://dev.to/yani82](https://dev.to/yani82)
+- 📝 I regularly write articles on [Medium]([https://dev.to/yani82](https://medium.com/@yani.iman1))
 
 - 💬 Ask me about **JavaScript, React**
 
-- 📫 How to reach me **yani.iman1@gmail.com**
+- 📫 How to reach me [Email]**yani.iman1@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1rknje3OPRh0pqSMbQh1XzqSx6-Wq6cCCvW2ByqO28Dg/edit?usp=sharing)
 
