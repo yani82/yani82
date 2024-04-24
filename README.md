@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yani82" alt="yani82" /></a> </p>
 
-- 🔭 I’m currently working on [Estee Lauder Accessible Beauty Hackathon](https://github.com/Agoodsamaritan)
+- 🔭 I’m currently working on a smart gift registry app called Boonzie, an event company, and a travel company's website
 
-- 🌱 I’m currently learning **Java, Spring Boot, Angular, AWS, Azure, IBM Sterling OMS**
+- 💻 Most recent Hackathon: [Estee Lauder Accessible Beauty Hackathon](https://github.com/Agoodsamaritan)
 
-- 👯 I’m looking to collaborate on **Monthly projects**
+- 🌱 I’m currently mastering **Javascript, and React**
+
+- 👯 I’m looking to collaborate on **Monthly projects and Hackathons**
 
 - 🤝 I’m looking for help with **Data Structures & Algorithms**
 
@@ -25,7 +27,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/11_83s1qkPjEPCTF--msZEsn3CM-rlSLCxFE0YEDQYfM/edit?usp=sharing](https://docs.google.com/document/d/11_83s1qkPjEPCTF--msZEsn3CM-rlSLCxFE0YEDQYfM/edit?usp=sharing)
 
-- ⚡ Fun fact **American born, Malaysian bred, transitioned from travel to tech, a mom who's striving to provide the best for her two kiddos**
+- ⚡ Fun fact **American-born, Malaysian-bred, transitioned from travel marketing to tech, a mom who's striving to provide the best for her two little ones**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
