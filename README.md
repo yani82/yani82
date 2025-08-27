@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yani82" alt="yani82" /></a> </p>
 
-- 🔭 I’m currently working on a smart gift registry app called Boonzie, an event company, and a travel company's website
+- 🔭 I’m currently working on a one-stop solution for birthdays called Boonzie, and Be a Buddy; a platform reimagining the way we gift, impacting low income families, while supporting educators. 
 
 - 💻 Most recent Hackathon: [Estee Lauder Accessible Beauty Hackathon](https://github.com/Agoodsamaritan)
 
@@ -35,7 +35,7 @@
 <p align="left">
 <a href="https://codepen.io/yani82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yani82" height="30" width="40" /></a>
 <a href="https://dev.to/yani82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yani82" height="30" width="40" /></a>    
-<a href="https://twitter.com/yi_tweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yi_tweets" height="30" width="40" /></a>        
+<!-- <a href="https://twitter.com/yi_tweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yi_tweets" height="30" width="40" /></a>         -->
 <a href="https://linkedin.com/in/yani-asari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yani-asari" height="30" width="40" /></a>        
 <a href="https://stackoverflow.com/users/15562097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15562097" height="30" width="40" /></a>        
 <a href="https://medium.com/@yani.iman1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yani.iman1" height="30" width="40" /></a>        
