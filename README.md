@@ -5,10 +5,6 @@
 <h1 align="center">Hi, I'm Yani :v:</h1>
 <h3 align="center">A passionate Frontend Developer with a background in Digital Marketing based in New York City</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/yani82=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yani82" alt="yani82" /></a> </p>
-
 - 🔭 I’m currently working on a one-stop solution for birthdays called Boonzie, and Be a Buddy; a platform reimagining the way we gift, impacting low income families, while supporting educators. 
 
 - 💻 Most recent Hackathon: [Estee Lauder Accessible Beauty Hackathon](https://github.com/Agoodsamaritan)
